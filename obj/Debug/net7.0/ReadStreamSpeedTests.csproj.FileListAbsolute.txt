@@ -1,0 +1,15 @@
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\bin\Debug\net7.0\ReadStreamSpeedTests.exe
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\bin\Debug\net7.0\ReadStreamSpeedTests.deps.json
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\bin\Debug\net7.0\ReadStreamSpeedTests.runtimeconfig.json
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\bin\Debug\net7.0\ReadStreamSpeedTests.dll
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\bin\Debug\net7.0\ReadStreamSpeedTests.pdb
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.csproj.AssemblyReference.cache
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.AssemblyInfoInputs.cache
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.AssemblyInfo.cs
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.csproj.CoreCompileInputs.cache
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.dll
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\refint\ReadStreamSpeedTests.dll
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.pdb
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ReadStreamSpeedTests.genruntimeconfig.cache
+C:\Users\BuPh\Desktop\GIMTransfer\GIMtransfer\Test Projects\ReadStreamSpeedTests\obj\Debug\net7.0\ref\ReadStreamSpeedTests.dll
