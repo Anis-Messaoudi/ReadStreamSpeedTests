@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\GIMtransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
+      "projectUniqueName": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
       "projectName": "ReadStreamSpeedTests",
-      "projectPath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\GIMtransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
+      "projectPath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
       "packagesPath": "C:\\Users\\BuPh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\GIMtransfer\\Test Projects\\ReadStreamSpeedTests\\obj\\",
+      "outputPath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\Test Projects\\ReadStreamSpeedTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BuPh\\AppData\\Roaming\\NuGet\\NuGet.Config",

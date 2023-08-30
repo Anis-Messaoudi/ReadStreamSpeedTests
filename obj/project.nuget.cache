@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Un7y7dPg3TwOWKEzK0XDoUhJttNy2RsLCtstLwK0Ozy4bMo8v+h0KwaXrnRxN+kdF4yUpSqQJGK6+hqlYgzMNQ==",
+  "dgSpecHash": "+yd1uPh1TO8CaTUWYmAD0iTFGxCn5E+wGb+7a2m68Oflzq1+s4YxCTKtcJBSEXmY61Bks0bVp1WaepmUkWxsZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\GIMtransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
+  "projectFilePath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
