@@ -2,6 +2,8 @@
 using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ReadStreamSpeedTests
 {
@@ -50,24 +52,16 @@ namespace ReadStreamSpeedTests
                             {
                                 objectNotEmpty = true;
                                 // read async here
-                                if (tasks.Count > 31)
+                                if (tasks.Count > 15)
                                 {
                                     int taskFinishedIndex = Task.WaitAny(tasks.ToArray());
 
 
+
                                     Task task = Task.Run(() =>
                                     {
-                                        Dictionary<char, int> charCount = new();
-                                        for (int i = 0; i < objectJsonText.Length; i++)
-                                        {
-                                            char c = objectJsonText[i];
-                                            if (!charCount.ContainsKey(c))
-                                            {
-                                                charCount[c] = 0;
-                                            }
+                                        JObject jobj = JObject.Parse(objectJsonText);
 
-                                            charCount[c]++;
-                                        }
                                     });
                                     tasks[taskFinishedIndex] = task;
                                 }
@@ -145,19 +139,13 @@ namespace ReadStreamSpeedTests
                                     Task.WaitAll(tasks.ToArray());
                                     tasks = new();
                                 }
+
+
+
                                 Task task = Task.Run(() =>
                                 {
-                                    Dictionary<char, int> charCount = new();
-                                    for (int i = 0; i < objectJsonText.Length; i++)
-                                    {
-                                        char c = objectJsonText[i];
-                                        if (!charCount.ContainsKey(c))
-                                        {
-                                            charCount[c] = 0;
-                                        }
+                                    JObject jobj = JObject.Parse(objectJsonText);
 
-                                        charCount[c]++;
-                                    }
                                 });
                                 tasks.Add(task);
 

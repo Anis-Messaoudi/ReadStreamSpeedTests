@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+yd1uPh1TO8CaTUWYmAD0iTFGxCn5E+wGb+7a2m68Oflzq1+s4YxCTKtcJBSEXmY61Bks0bVp1WaepmUkWxsZQ==",
+  "dgSpecHash": "9t099w8ZwmXGwSUQF/wqSuV8YfaNQKzHe+bRxYU5YqbccHuF8B4LTFCNmPi+3YEg5VIZ1yXizt3ohYvagmKtGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BuPh\\Desktop\\GIMTransfer\\Test Projects\\ReadStreamSpeedTests\\ReadStreamSpeedTests.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BuPh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
